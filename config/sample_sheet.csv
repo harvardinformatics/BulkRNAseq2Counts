@@ -1,0 +1,3 @@
+SampleId,RunId,Lane,R1,R2
+SRR1765780,NA,NA,/n/home14/afreedman/workspace/BulkRNAseq2Counts/.test/fastq/SRR1765780_1_val_1_100k.fq.gz,/n/home14/afreedman/workspace/BulkRNAseq2Counts/.test/fastq/SRR1765780_2_val_2_100k.fq.gz
+SRR1767340,NA,NA,/n/home14/afreedman/workspace/BulkRNAseq2Counts/.test/fastq/SRR1767340_1_val_1_100k.fq.gz,/n/home14/afreedman/workspace/BulkRNAseq2Counts/.test/fastq/SRR1767340_2_val_2_100k.fq.gz
